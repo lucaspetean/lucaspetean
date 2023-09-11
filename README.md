@@ -1,4 +1,8 @@
-# Bem-vindo ao meu GitHub! 👾🎮
+ <!-- n ficou legal <div style="display: inline_block"><br>
+   <img align="right" height="220" widht="120" alt="Lucas-Gif-Discord" src="https://cdn.discordapp.com/attachments/1150796349663608935/1150800029448159273/Programador_gif.gif">
+  </div>
+  -->
+ # Bem-vindo ao meu GitHub! 
 
 ## Sobre Mim
 Olá, eu sou Lucas Miranda, formado em Game Design pela Anhembi Morumbi.
