@@ -2,10 +2,8 @@
 
 ## Sobre Mim
 Olá, eu sou Lucas Miranda, formado em Game Design pela Anhembi Morumbi.
+
 Minha jornada no mundo dos jogos começou 2018 e desde então tenho explorado e aprendido diversas áreas em Game Design.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspetean&layout=compact&theme=dark)
-
 
 ## Habilidades
   <div style="display: inline_block"><br>
