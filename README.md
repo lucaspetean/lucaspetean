@@ -3,7 +3,7 @@
 ## Sobre Mim
 Olá, eu sou Lucas Miranda, formado em Game Design pela Anhembi Morumbi.
   <div style="display: inline_block"><br>
-   <img align="right" height="600" widht="600" alt="Lucas-Gif-Discord" src="https://cdn.discordapp.com/attachments/1150796349663608935/1150796439333654588/Lucas-Gif.gif">
+   <img align="right" height="320" widht="320" alt="Lucas-Gif-Discord" src="https://cdn.discordapp.com/attachments/1150796349663608935/1150796439333654588/Lucas-Gif.gif">
   </div>
 Minha jornada no mundo dos jogos começou 2018 e desde então tenho explorado e aprendido diversas áreas em Game Design.
 
