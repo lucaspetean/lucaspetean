@@ -21,21 +21,21 @@ Minha jornada no mundo dos jogos começou 2018 e desde então tenho explorado e 
           
 ## Linguagens de Programação 
   <div style="display: inline_block"><br>
-    <img align="center" alt="Lucas-Csharp" height="80" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Lucas-Js" height="80" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Lucas-Cplusplus" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="Lucas-React" height="80" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Lucas-HTML" height="80" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Lucas-CSS" height="80" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Lucas-Csharp" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="Lucas-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Lucas-Cplusplus" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+    <img align="center" alt="Lucas-React" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Lucas-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Lucas-CSS" hheight="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
   
 <!-- Trazer os jogos para aqui ## Jogos Destacados
 
 Aqui estão alguns dos meus projetos de destaque:
 
-- *[Nome do Jogo 1](link para o repositório)* - Uma breve descrição do primeiro jogo.
-- *[Nome do Jogo 2](link para o repositório)* - Uma breve descrição do segundo jogo.
-- *[Nome do Jogo 3](link para o repositório)* - Uma breve descrição do terceiro jogo.
+- *[Nome do Jogo 1](link para o repositório)* - Uma breve descrição.
+- *[Nome do Jogo 2](link para o repositório)* - 
+- *[Nome do Jogo 3](link para o repositório)* - 
 -->
 ## Colaboração
 
